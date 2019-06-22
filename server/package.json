@@ -19,10 +19,8 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.12",
-    "mongoose-dateonly": "^1.0.6",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
-    "react-moment": "^0.9.2",
     "validator": "^11.0.0"
   },
   "devDependencies": {
